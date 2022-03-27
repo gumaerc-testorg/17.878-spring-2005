@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2a343487-ca39-e1fa-6ef8-68c7a20ceabf
 resourcetype: Document
 title: Three Takes at the War in Iraq
 uid: e8de236e-5b65-5079-5425-e4cc1976032d
