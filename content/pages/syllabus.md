@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives and scope,
+  meeting times, seminar requirements, and required texts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -44,4 +46,4 @@ King, Gary, Robert Keohane, and Sidney Verba. _Designing Social Inquiry: Scienti
 
 Yin, Robert. _Case Study Research: Design and Methods_. 3rd ed. Thousand Oaks, CA: Sage Publications, 2002. ISBN: 9780761925538.
 
-All the other readings for the course (i.e., those not in the three books) are cited in the [readings]({{< baseurl >}}/pages/readings) section.)
+All the other readings for the course (i.e., those not in the three books) are cited in the {{% resource_link eff10977-6a46-ac02-ebb1-9f358cbf80e4 "readings" %}} section.)

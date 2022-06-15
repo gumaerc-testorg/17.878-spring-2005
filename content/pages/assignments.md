@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,7 +19,7 @@ Assignment 1
     (d) Do this exercise with reference to King, et al., section 3.5.
 2.  Next repeat (a) through (c) for your own area of research. Compose an argument, its corresponding empirical generalization, and delineate the plausible observable implications of the latter in a manner that could be the basis for an empirical investigation.
 
-Excerpts ([PDF]({{< baseurl >}}/resources/exercise_no_1))
+Excerpts ({{% resource_link e8de236e-5b65-5079-5425-e4cc1976032d "PDF" %}})
 
 Assignment 2
 ------------
